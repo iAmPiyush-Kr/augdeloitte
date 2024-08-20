@@ -5,3 +5,5 @@ Data Visualization
 
 Recurrent Neural Networks
 Computer Vision
+Max Pooling
+Convolution
