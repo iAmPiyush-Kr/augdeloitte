@@ -1,4 +1,7 @@
 Big Data Analytics
 Machine Learning
 Deep Learning
+Data Visualization
+
+Recurrent Neural Networks
 Computer Vision
